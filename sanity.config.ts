@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Portfolio Site',
 
-  projectId: 'hanh9ax6', // Using existing project ID
+  projectId: 'ckiaur1u', // New T-portfolio project ID
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
